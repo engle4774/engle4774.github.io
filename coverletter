@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Cover Letter WGU</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=0" />    
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style(resume).css"> 
+
+</head>
+<body>
+    <div class="container">
+            <br>
+            <div class="head"> <!-- page header -->
+                    <h1>Austin Engle</h1>
+                    <p>16 400 E</p>
+                    <p>Orem, Utah 84097</p>
+                    <p>801-319-6339</p>
+                    <p>austinengle4774@gmail.com</p>
+
+                    <div class="linkedin text-center"> <!-- LinkedIn Button -->                    
+                            <a href="https://www.linkedin.com/in/austin-engle-2a975b146/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+                    </div>
+
+
+            </div> <!-- "head" closer -->
+            
+            <hr>
+
+        
+        <!--Greeting -->
+        <h4><b>Hello Service Desk Leadership,</b></h4> 
+        <!--Message -->
+        <p>When I heard about the position for Team Lead I was ecstatic. In the past few months I have learned a lot of the 
+            job of a Tier 1 agent, and working hand in hand with several other key players on the service desk, I have been trying 
+            to approach my coworkers as both a servant leader as well as a good friend. I have been eager for an opportunity to grow and 
+            better reach my fellow co-workers on a broader scale. Since I started, I have only tried to be a resource and I have a 
+            desire to use this position to become a better resource for my peers. I would use this position in any way possible to serve 
+            the needs of our students, staff, and most importantly my fellow teammates. I know that I am fit for this position because 
+            I am approachable, quick to correct my faults, and have a determination to solve problems when they arise.</p>
+        
+        <p>I look forward to hearing back from you,</p>
+        
+        <p>Respectfully,</p>
+
+        <p><b>Austin Engle</b></p>
+
+        <br>
+        <br>
+        <a href="index.html">Click here for resume</a>
+
+
+    </div> <!-- "container" closer -->
+
+<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>  
+
+</body>
+</html>
